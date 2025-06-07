@@ -10,3 +10,11 @@
 
 # Log files
 *.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Optional build output
+/dist
+/build
