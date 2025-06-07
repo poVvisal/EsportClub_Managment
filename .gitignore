@@ -1,0 +1,12 @@
+# Dependencies
+/node_modules
+
+# Environment Variables
+# NEVER commit your secrets (API keys, DB passwords, etc.)
+.env
+.env.local
+.env.development
+.env.production
+
+# Log files
+*.log
