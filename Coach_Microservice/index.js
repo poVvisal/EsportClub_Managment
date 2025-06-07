@@ -13,10 +13,6 @@ const PersonModel = require('./person_schema.js');
 function uniqueid(min, max) {
     return Math.floor(Math.random() * (max - min + 1) + min);
 }
-
-// =================================================================================
-//  THE NEW HTML GENERATOR - One function to rule them all
-// =================================================================================
 // =================================================================================
 //  THE HTML GENERATOR - V4 with Colors Reverted and Fonts/Dates Fixed
 // =================================================================================
